@@ -5,23 +5,26 @@ body{
 
 
 .content h1{
-    font-size : 2.3em;
+    font-size : 3em;
     font-family: 'Lato', sans-serif;
     padding-bottom: 2%;
 }
 
 .content{
     padding: 5%;
-    line-height: 2.3em;
-    margin: 0 auto;
+    line-height: 3em;
     text-align: center;
-    font-family: 'Raleway', sans-serif;
 }
 
+.fa {
+    font-size: 1.5em;
+    padding:5px;
+}
 
 .content p {
-    font-size: 1.3em;
+    font-size: 1.5em;
     color: rgb(200, 200, 200);
+    font-family: 'Raleway', sans-serif;
 }
 
 
