@@ -53,3 +53,9 @@ body{
 .content ul {
     list-style-type: none;
 }
+
+.profile_pic {
+    border-radius: 50%;
+    width: 100px;
+    height: 100px;
+}
