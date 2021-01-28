@@ -10,6 +10,12 @@ body{
     padding-bottom: 2%;
 }
 
+li{
+    font-size : 1em;
+    font-family: 'Lato', sans-serif;
+    padding-bottom: 2%;
+}
+
 .content{
     padding: 5%;
     line-height: 3em;
@@ -54,7 +60,17 @@ body{
     list-style-type: none;
 }
 
-img {
+.portada img{
+    margin: 10px;
+    padding: 10px;
+    width: 100%;
+    height: 100%;
+    align-self: center;
+    position: absolute;
+}
+
+
+.profile_pic {
     border-radius: 50%;
     width: 100px;
     height: 100px;
